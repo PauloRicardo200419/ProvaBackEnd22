@@ -1,6 +1,6 @@
 1) Digite o código abaixo:
 
-tech4music
+use tech4music
 
 2) DIgite os códigos abaixo:
 
